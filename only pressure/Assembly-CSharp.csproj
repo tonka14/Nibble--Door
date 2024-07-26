@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Pressure plate.cs" />
+    <Compile Include="Assets\playercontroller.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
